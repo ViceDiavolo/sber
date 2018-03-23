@@ -1,0 +1,91 @@
+
+
+        currenttower()
+        {
+                      int colorf = 0;
+                      int colors = 0;
+                      int colort = 0;
+                      
+                      colorf = currentcolor();
+                      colors = currentcolor();
+                      colort = currentcolor();
+                      
+                      }
+
+ void   sortqub(  int colorf; int colors; int colort)
+    {
+      bool thirdelement = 0; // ôëàã òðåüåãî öâåòà êóáèêà, ïîçâîëÿåò îïðåäåëèòü  öâåò ïîñëåäíåãî êóáèêà, êîòîðûé íóæíî ïîñòàâèòü â ïîñëåäîâàòåëüíîñòü
+           int colorb = 0; // äàííûå î áåëîì êóáèêå
+           int ccolor = 0; //  äàííûå î òåêóùåì öâåòå êóáèêà
+           /*if (ccolor = colorf || ccolor = colort)
+           if ( ccolor = colors)
+           if  ()*/
+           
+             while ( ccolor != colorf  || ccolor = colort)
+             { 
+                   // rotateconver(1);//  âûçîâ ôóíêöèè ïåðìåùåíèå êîíâåéðà íà 1 øàã
+                   
+            
+             } 
+             if( ccolor = colort)
+             { thirdelement = 1;  }
+             while ( ccolor != colors)
+             {     
+                  // rotateconver(1);
+                    
+              if( thirdelement = 1)      
+            { while ( ccolor != colort )
+             {
+                  //  rotateconver(1);
+                    
+            
+             }
+             else 
+             {  while ( ccolor != colorf)
+             
+                    //  rotateconver(1);
+                      
+                  }
+}
+/*
+  void rotateconver (int n)
+  {
+       //  n  êîëè÷åñòâî øàãîâ êîíâåéåðà 
+       double oborot;
+       double curpos = oborot * n;
+       }
+*/
+/*
+   int curentcolor ( int color)
+   {
+       if()
+       {
+           color = 1;
+       }
+        if()
+       {
+           color = 2;
+       }
+        if()
+       {
+           color = 3;
+       }
+        if()
+       {
+           color = 4;
+       }
+        if()
+       {
+           color = 5;
+       }
+        if()
+       {
+           color = 6;
+       }
+       return color;
+   }
+       
+*/
+int main()
+{
+}
